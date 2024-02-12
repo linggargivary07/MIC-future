@@ -1,3 +1,4 @@
 dibulan pertama diharapkan mampu membuat website menggunakan html dan css 
 menggunakan flexbox,grid,dll
 menggunakan javasript
+mencoba menggunakan python pada website
